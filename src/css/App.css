@@ -1,0 +1,28 @@
+body{
+  background: #eee;
+}
+h1,h2,h3,h4,h5,h6,p{
+  margin: 0;
+  padding: 0;
+}
+.headingCss{
+  border : 1px solid gray;
+  padding: 2px;
+  width: 100%;
+  text-align: center; 
+}
+.contact-card{
+  border: 1px solid gray;
+  padding: 10px 15px;
+  margin: 10px 0px ;
+  background-color: teal;
+  color: white;
+  width: 250px;
+  line-height: 30px;
+  text-align: center;
+  border-radius: 5%;
+  -webkit-border-radius: 5%;
+  -moz-border-radius: 5%;
+  -ms-border-radius: 5%;
+  -o-border-radius: 5%;
+}
